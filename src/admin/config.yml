@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: yishi-lu/grdisome-test
+  repo: yishi-lu/gridsome-test
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
